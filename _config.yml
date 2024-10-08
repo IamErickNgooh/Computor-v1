@@ -1,5 +1,0 @@
-markdown: kramdown
-kramdown:
-  math_engine: katex
-plugins:
-  - jekyll-katex
